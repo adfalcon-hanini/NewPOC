@@ -1,0 +1,84 @@
+# API Configuration
+api.base.url=https://your-api-base-url/process
+api.version=1.0
+api.app.id=WEB_ORDERS.25
+
+# Test User Credentials
+test.nin=YOUR_NIN
+test.password=YOUR_PASSWORD
+test.language=ARB
+test.lstLogin=DD-MM-YYYY
+
+# Common User Configuration
+user.type=INVESTOR
+user.investorType=INVESTOR
+
+# Client Configuration
+client.altIP=YOUR_CLIENT_IP
+client.userIP=YOUR_CLIENT_IP
+client.os=Windows
+client.browser=Chrome
+
+# Banking Configuration
+banking.userType=INVESTOR
+banking.accRegisterType=ALL
+banking.removeStatus=2
+banking.swiftCode=YOUR_SWIFT_CODE
+banking.transfer.amount=100
+bank.accountNo=YOUR_ACCOUNT_NO
+bank.swiftAddress=YOUR_SWIFT_ADDRESS
+bank.currencyCode=307
+bank.accountIBAN=YOUR_IBAN
+
+# Alert Configuration
+alert.userType=INVESTOR
+alert.singleDate=Y
+alert.symbolId=10
+alert.interestId=62
+alert.currentValue=10
+alert.value=11
+alert.dateFrom=2
+alert.type=CMP
+
+# Customer Configuration
+customer.isAddBuyBal=F
+
+# MyCalculator Configuration
+mycalc.period=ALL
+mycalc.dateFrom=YYYY-MM-DD
+mycalc.dateTo=YYYY-MM-DD
+mycalc.bal=0
+mycalc.prevBal=0
+mycalc.with=0
+mycalc.depo=0
+mycalc.cashDiv=0
+mycalc.stkTransfer=0
+mycalc.regTransfer=0
+mycalc.fees=0
+
+# Cash Distribution Configuration
+cashDistribution.withCashDistribution=true
+
+# Order Configuration
+order.ordType=BUY
+order.symbol=SYMBOL
+order.sharesNo=1000
+order.sharePrice=0.00
+order.sharePriceMarket=0
+order.userType=INVESTOR
+order.fixType=2
+order.investorType=INVESTOR
+order.mkPrc=N
+order.mPayType=KB
+order.ordVald=1
+order.discloseVolume=0
+order.clientAltIP=YOUR_CLIENT_IP
+order.clientUserIP=YOUR_CLIENT_IP
+order.slNo=1
+order.searchDate=DD-MM-YYYY
+
+# Database Configuration
+db.url=jdbc:oracle:thin:@DB_HOST:PORT/SERVICE_NAME
+db.username=YOUR_DB_USERNAME
+db.password=YOUR_DB_PASSWORD
+db.driver=oracle.jdbc.OracleDriver

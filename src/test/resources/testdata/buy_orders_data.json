@@ -1,0 +1,513 @@
+[
+  {
+    "price": "14.39",
+    "compCode": "ORDS",
+    "ordType": "BUY",
+    "slNo": "98736821",
+    "timestamp": "1772098851443"
+  },
+  {
+    "price": "2.64",
+    "compCode": "MKDM",
+    "ordType": "BUY",
+    "slNo": "98736822",
+    "timestamp": "1772098852380"
+  },
+  {
+    "price": "2.915",
+    "compCode": "DHBK",
+    "ordType": "BUY",
+    "slNo": "98736823",
+    "timestamp": "1772098852801"
+  },
+  {
+    "price": "16.5",
+    "compCode": "QEWS",
+    "ordType": "BUY",
+    "slNo": "98736824",
+    "timestamp": "1772098853322"
+  },
+  {
+    "price": "3.087",
+    "compCode": "GWCS",
+    "ordType": "BUY",
+    "slNo": "98736825",
+    "timestamp": "1772098854036"
+  },
+  {
+    "price": "13.33",
+    "compCode": "IQCD",
+    "ordType": "BUY",
+    "slNo": "98736826",
+    "timestamp": "1772098855254"
+  },
+  {
+    "price": "16.5",
+    "compCode": "QFLS",
+    "ordType": "BUY",
+    "slNo": "98736827",
+    "timestamp": "1772098855922"
+  },
+  {
+    "price": "24.61",
+    "compCode": "QIBK",
+    "ordType": "BUY",
+    "slNo": "98736828",
+    "timestamp": "1772098856281"
+  },
+  {
+    "price": "3.63",
+    "compCode": "GISS",
+    "ordType": "BUY",
+    "slNo": "98736829",
+    "timestamp": "1772098857061"
+  },
+  {
+    "price": "13.2",
+    "compCode": "QNNS",
+    "ordType": "BUY",
+    "slNo": "98736830",
+    "timestamp": "1772098857721"
+  },
+  {
+    "price": "12.21",
+    "compCode": "QNBK",
+    "ordType": "BUY",
+    "slNo": "98736831",
+    "timestamp": "1772098858205"
+  },
+  {
+    "price": "14.21",
+    "compCode": "QISI",
+    "ordType": "BUY",
+    "slNo": "98736832",
+    "timestamp": "1772098859541"
+  },
+  {
+    "price": "12.65",
+    "compCode": "QIIK",
+    "ordType": "BUY",
+    "slNo": "98736833",
+    "timestamp": "1772098861171"
+  },
+  {
+    "price": "2.328",
+    "compCode": "QAMC",
+    "ordType": "BUY",
+    "slNo": "98736834",
+    "timestamp": "1772098861731"
+  },
+  {
+    "price": "5.445",
+    "compCode": "IGRD",
+    "ordType": "BUY",
+    "slNo": "98736835",
+    "timestamp": "1772098862254"
+  },
+  {
+    "price": "1.65",
+    "compCode": "BLDN",
+    "ordType": "BUY",
+    "slNo": "98736836",
+    "timestamp": "1772098862581"
+  },
+  {
+    "price": "5.742",
+    "compCode": "QGTS",
+    "ordType": "BUY",
+    "slNo": "98736837",
+    "timestamp": "1772098862997"
+  },
+  {
+    "price": "4.539",
+    "compCode": "ABQK",
+    "ordType": "BUY",
+    "slNo": "98736838",
+    "timestamp": "1772098863340"
+  },
+  {
+    "price": "5.332",
+    "compCode": "CBQK",
+    "ordType": "BUY",
+    "slNo": "98736839",
+    "timestamp": "1772098863851"
+  },
+  {
+    "price": "3.113",
+    "compCode": "MARK",
+    "ordType": "BUY",
+    "slNo": "98736840",
+    "timestamp": "1772098864162"
+  },
+  {
+    "price": "16.81",
+    "compCode": "ZHCD",
+    "ordType": "BUY",
+    "slNo": "98736841",
+    "timestamp": "1772098864465"
+  },
+  {
+    "price": "22.08",
+    "compCode": "MERS",
+    "ordType": "BUY",
+    "slNo": "98736843",
+    "timestamp": "1772098864777"
+  },
+  {
+    "price": "3.081",
+    "compCode": "VFQS",
+    "ordType": "BUY",
+    "slNo": "98736844",
+    "timestamp": "1772098865311"
+  },
+  {
+    "price": "1.089",
+    "compCode": "ERES",
+    "ordType": "BUY",
+    "slNo": "98736845",
+    "timestamp": "1772098865630"
+  },
+  {
+    "price": "1.471",
+    "compCode": "UDCD",
+    "ordType": "BUY",
+    "slNo": "98736847",
+    "timestamp": "1772098866214"
+  },
+  {
+    "price": "3.466",
+    "compCode": "QIMD",
+    "ordType": "BUY",
+    "slNo": "98736848",
+    "timestamp": "1772098866570"
+  },
+  {
+    "price": "2.31",
+    "compCode": "BRES",
+    "ordType": "BUY",
+    "slNo": "98736849",
+    "timestamp": "1772098866909"
+  },
+  {
+    "price": "3.375",
+    "compCode": "QNCD",
+    "ordType": "BUY",
+    "slNo": "98736850",
+    "timestamp": "1772098868480"
+  },
+  {
+    "price": "2.552",
+    "compCode": "QATI",
+    "ordType": "BUY",
+    "slNo": "98736851",
+    "timestamp": "1772098869011"
+  },
+  {
+    "price": "7.792",
+    "compCode": "MCGS",
+    "ordType": "BUY",
+    "slNo": "98736852",
+    "timestamp": "1772098869370"
+  },
+  {
+    "price": "3.771",
+    "compCode": "IHGS",
+    "ordType": "BUY",
+    "slNo": "98736853",
+    "timestamp": "1772098870560"
+  },
+  {
+    "price": "3.461",
+    "compCode": "DOHI",
+    "ordType": "BUY",
+    "slNo": "98736854",
+    "timestamp": "1772098870988"
+  },
+  {
+    "price": "3.469",
+    "compCode": "DUBK",
+    "ordType": "BUY",
+    "slNo": "98736855",
+    "timestamp": "1772098871350"
+  },
+  {
+    "price": "2.916",
+    "compCode": "QCFS",
+    "ordType": "BUY",
+    "slNo": "98736856",
+    "timestamp": "1772098871639"
+  },
+  {
+    "price": "0.9",
+    "compCode": "NLCS",
+    "ordType": "BUY",
+    "slNo": "98736857",
+    "timestamp": "1772098872992"
+  },
+  {
+    "price": "1.875",
+    "compCode": "QGMD",
+    "ordType": "BUY",
+    "slNo": "98736858",
+    "timestamp": "1772098873369"
+  },
+  {
+    "price": "1.911",
+    "compCode": "WDAM",
+    "ordType": "BUY",
+    "slNo": "98736859",
+    "timestamp": "1772098873754"
+  },
+  {
+    "price": "1.35",
+    "compCode": "MPHC",
+    "ordType": "BUY",
+    "slNo": "98736860",
+    "timestamp": "1772098874126"
+  },
+  {
+    "price": "3.333",
+    "compCode": "QLMI",
+    "ordType": "BUY",
+    "slNo": "98736861",
+    "timestamp": "1772098874438"
+  },
+  {
+    "price": "0.863",
+    "compCode": "SIIS",
+    "ordType": "BUY",
+    "slNo": "98736862",
+    "timestamp": "1772098874801"
+  },
+  {
+    "price": "1.772",
+    "compCode": "QIGD",
+    "ordType": "BUY",
+    "slNo": "98736863",
+    "timestamp": "1772098875358"
+  },
+  {
+    "price": "0.771",
+    "compCode": "MRDS",
+    "ordType": "BUY",
+    "slNo": "98736864",
+    "timestamp": "1772098875918"
+  },
+  {
+    "price": "2.819",
+    "compCode": "AKHI",
+    "ordType": "BUY",
+    "slNo": "98736865",
+    "timestamp": "1772098876282"
+  },
+  {
+    "price": "0.933",
+    "compCode": "DBIS",
+    "ordType": "BUY",
+    "slNo": "98736866",
+    "timestamp": "1772098876734"
+  },
+  {
+    "price": "0.921",
+    "compCode": "AHCS",
+    "ordType": "BUY",
+    "slNo": "98736867",
+    "timestamp": "1772098877204"
+  },
+  {
+    "price": "1.331",
+    "compCode": "QOIS",
+    "ordType": "BUY",
+    "slNo": "98736868",
+    "timestamp": "1772098877906"
+  },
+  {
+    "price": "2.142",
+    "compCode": "QFBQ",
+    "ordType": "BUY",
+    "slNo": "98736869",
+    "timestamp": "1772098878197"
+  },
+  {
+    "price": "5.166",
+    "compCode": "MCCS",
+    "ordType": "BUY",
+    "slNo": "98736870",
+    "timestamp": "1772098878504"
+  },
+  {
+    "price": "1.936",
+    "compCode": "QGRI",
+    "ordType": "BUY",
+    "slNo": "98736871",
+    "timestamp": "1772098878886"
+  },
+  {
+    "price": "10.829",
+    "compCode": "QETF",
+    "ordType": "BUY",
+    "slNo": "98736872",
+    "timestamp": "1772098879259"
+  },
+  {
+    "price": "1.29",
+    "compCode": "RMAX",
+    "ordType": "BUY",
+    "slNo": "98736873",
+    "timestamp": "1772098879631"
+  },
+  {
+    "price": "2.529",
+    "compCode": "QATR",
+    "ordType": "BUY",
+    "slNo": "98736874",
+    "timestamp": "1772098879996"
+  },
+  {
+    "price": "4.763",
+    "compCode": "BEMA",
+    "ordType": "BUY",
+    "slNo": "98736875",
+    "timestamp": "1772098880461"
+  },
+  {
+    "price": "0.787",
+    "compCode": "FALH",
+    "ordType": "BUY",
+    "slNo": "98736876",
+    "timestamp": "1772098881220"
+  },
+  {
+    "price": "110.11",
+    "compCode": "GA15",
+    "ordType": "BUY",
+    "slNo": "98736877",
+    "timestamp": "1772098881834"
+  },
+  {
+    "price": "110",
+    "compCode": "GA23",
+    "ordType": "BUY",
+    "slNo": "98736878",
+    "timestamp": "1772098882186"
+  },
+  {
+    "price": "108.9",
+    "compCode": "GA27",
+    "ordType": "BUY",
+    "slNo": "98736879",
+    "timestamp": "1772098882492"
+  },
+  {
+    "price": "110",
+    "compCode": "GA31",
+    "ordType": "BUY",
+    "slNo": "98736880",
+    "timestamp": "1772098882876"
+  },
+  {
+    "price": "108.9",
+    "compCode": "GA35",
+    "ordType": "BUY",
+    "slNo": "98736881",
+    "timestamp": "1772098883316"
+  },
+  {
+    "price": "110",
+    "compCode": "GA42",
+    "ordType": "BUY",
+    "slNo": "98736882",
+    "timestamp": "1772098883780"
+  },
+  {
+    "price": "110",
+    "compCode": "GA48",
+    "ordType": "BUY",
+    "slNo": "98736883",
+    "timestamp": "1772098884095"
+  },
+  {
+    "price": "110",
+    "compCode": "GA50",
+    "ordType": "BUY",
+    "slNo": "98736884",
+    "timestamp": "1772098884424"
+  },
+  {
+    "price": "110",
+    "compCode": "GA52",
+    "ordType": "BUY",
+    "slNo": "98736885",
+    "timestamp": "1772098884794"
+  },
+  {
+    "price": "101.2",
+    "compCode": "GA55",
+    "ordType": "BUY",
+    "slNo": "98736886",
+    "timestamp": "1772098885134"
+  },
+  {
+    "price": "110",
+    "compCode": "GA56",
+    "ordType": "BUY",
+    "slNo": "98736887",
+    "timestamp": "1772098885451"
+  },
+  {
+    "price": "110",
+    "compCode": "GA57",
+    "ordType": "BUY",
+    "slNo": "98736888",
+    "timestamp": "1772098885804"
+  },
+  {
+    "price": "110",
+    "compCode": "GA58",
+    "ordType": "BUY",
+    "slNo": "98736889",
+    "timestamp": "1772098886203"
+  },
+  {
+    "price": "110",
+    "compCode": "GA60",
+    "ordType": "BUY",
+    "slNo": "98736890",
+    "timestamp": "1772098886676"
+  },
+  {
+    "price": "110",
+    "compCode": "GA61",
+    "ordType": "BUY",
+    "slNo": "98736891",
+    "timestamp": "1772098887085"
+  },
+  {
+    "price": "110",
+    "compCode": "GA63",
+    "ordType": "BUY",
+    "slNo": "98736892",
+    "timestamp": "1772098887561"
+  },
+  {
+    "price": "3.69",
+    "compCode": "MEZA",
+    "ordType": "BUY",
+    "slNo": "98736893",
+    "timestamp": "1772098888007"
+  },
+  {
+    "price": "10.56",
+    "compCode": "MFMS",
+    "ordType": "BUY",
+    "slNo": "98736894",
+    "timestamp": "1772098888320"
+  },
+  {
+    "price": "2.44",
+    "compCode": "MHAR",
+    "ordType": "BUY",
+    "slNo": "98736895",
+    "timestamp": "1772098888657"
+  }
+]

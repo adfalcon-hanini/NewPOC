@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" verbose="1">
+
+    <test name="Login Tests">
+        <classes>
+            <class name="org.example.login.LoginTest"/>
+            <class name="org.example.login.ChgPassTest"/>
+        </classes>
+    </test>
+
+    <test name="Config Tests">
+        <classes>
+            <class name="org.example.config.SystemConfigTest"/>
+        </classes>
+    </test>
+
+    <test name="Companies Tests">
+
+        <classes>
+            <class name="org.example.Companies.GetCompsTest"/>
+            <class name="org.example.Companies.PreferredCompaniesTest"/>
+        </classes>
+    </test>
+
+    <test name="Customer Tests">
+        <classes>
+            <class name="org.example.customer.CustomerAssetsTest"/>
+        </classes>
+    </test>
+
+    <test name="Banking Tests">
+        <classes>
+            <class name="org.example.banking.BnkInfoTest"/>
+            <class name="org.example.banking.BnkBalTest"/>
+            <class name="org.example.banking.RegBnkAccNewTest"/>
+            <class name="org.example.banking.RmvBnkAccTest"/>
+            <class name="org.example.banking.ActvBnkAccTest"/>
+            <class name="org.example.banking.BnkChkTransferNewTest"/>
+            <class name="org.example.banking.BnkTransferNewTest"/>
+            <class name="org.example.banking.ClntBnkAccsNewTest"/>
+            <class name="org.example.banking.UpdtBnkAccNewTest"/>
+        </classes>
+    </test>
+
+    <test name="Financial Tests">
+        <classes>
+            <class name="org.example.financial.GetFundDueTest"/>
+        </classes>
+    </test>
+
+    <test name="Account Statement Tests">
+        <classes>
+            <class name="org.example.accountStatment.AccountStatmetTest"/>
+        </classes>
+    </test>
+
+    <test name="MyCalc Tests">
+        <classes>
+            <class name="org.example.myCalc.MyCalcTest"/>
+            <class name="org.example.myCalc.MyCalcDetailsTest"/>
+            <class name="org.example.myCalc.ApplyTodayCashDistributionTest"/>
+        </classes>
+    </test>
+
+    <test name="Orders Tests">
+        <classes>
+            <class name="org.example.orders.SaveOrderTest"/>
+            <class name="org.example.orders.GetOrdersDBTest"/>
+            <class name="org.example.orders.GetOrderTest"/>
+            <class name="org.example.orders.CancelOrderTest"/>
+        </classes>
+    </test>
+
+    <test name="Alert Tests">
+        <classes>
+            <class name="org.example.alerts.GetAlertTest"/>
+            <class name="org.example.alerts.AddAlertTest"/>
+            <class name="org.example.alerts.UpdateAlertTest"/>
+            <class name="org.example.alerts.RemoveAlertTest"/>
+        </classes>
+    </test>
+
+    <!-- Buy Orders Flow: Create buy orders for all companies, then cancel all -->
+    <test name="Buy Orders Flow">
+        <classes>
+            <class name="org.example.orders.SaveOrderTest">
+                <methods>
+                    <include name="testSaveBuyOrderForAllCompanies"/>
+                </methods>
+            </class>
+            <class name="org.example.orders.CancelOrderTest">
+                <methods>
+                    <include name="testCancelAllBuyOrders"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
