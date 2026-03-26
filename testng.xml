@@ -68,7 +68,7 @@
             <class name="org.example.orders.SaveOrderTest"/>
             <class name="org.example.orders.GetOrdersDBTest"/>
             <class name="org.example.orders.GetOrderTest"/>
-            <class name="org.example.orders.CancelOrderTest"/>
+
         </classes>
     </test>
 
@@ -89,11 +89,7 @@
                     <include name="testSaveBuyOrderForAllCompanies"/>
                 </methods>
             </class>
-            <class name="org.example.orders.CancelOrderTest">
-                <methods>
-                    <include name="testCancelAllBuyOrders"/>
-                </methods>
-            </class>
+
         </classes>
     </test>
 

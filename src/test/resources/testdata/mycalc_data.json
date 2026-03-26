@@ -1,11 +1,11 @@
 {
   "with": "0",
-  "prevBal": "102656265.74",
+  "prevBal": "-23381.68",
   "regTransfer": "0",
   "fees": "0",
   "stkTransfer": "0",
-  "bal": "102656265.74",
-  "cashDiv": "45003",
+  "bal": "-23381.68",
+  "cashDiv": "3.2",
   "depo": "0",
-  "timestamp": "1772098847534"
+  "timestamp": "1774345001656"
 }

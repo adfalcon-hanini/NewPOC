@@ -79,7 +79,7 @@ public class SaveOrderTest {
     private String getCompanyPrice() {
         Map<String, Object> company = getFirstCompany();
         if (company != null) {
-            return String.valueOf(company.get("closePrc"));
+            return String.valueOf(company.get("limmitDown"));
         }
         return config.getOrderSharePrice();
     }
@@ -98,7 +98,7 @@ public class SaveOrderTest {
 
         for (Map<String, Object> company : companies) {
             String compCode = String.valueOf(company.get("compCode"));
-            String limitUp = String.valueOf(company.get("limmitUp"));
+            String limitUp = String.valueOf(company.get("limmitDown"));
 
             System.out.println("Creating " + ordType + " order for Company: " + compCode + ", Price: " + limitUp);
 

@@ -61,7 +61,6 @@ cashDistribution.withCashDistribution=true
 
 # Order Configuration
 order.ordType=BUY
-order.symbol=SYMBOL
 order.sharesNo=1000
 order.sharePrice=0.00
 order.sharePriceMarket=0
